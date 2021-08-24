@@ -16,5 +16,5 @@ https://youtu.be/p2hEFjHd0mk
 ## Screenshot
 
 <a href="https://pravalli21.github.io/Color-Game/index.html">
- <img src="https://i.imgur.com/K5k9ouj.png"/>
+ <img src="https://n2.sdlcdn.com/imgs/j/e/8/Chocozone-Color-Matching-Texas-Board-SDL953147897-1-082c4.jpeg"/>
 </a>
